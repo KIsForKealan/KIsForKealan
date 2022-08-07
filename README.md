@@ -1,12 +1,8 @@
-Hi, I’m @KIsForKealan, 27 year old tech-head, musician, and all round engineer (software, sound, mechanical, electrical);
-Interested in desktop & mobile apps, game development, and audio software;
+Full Stack Developer | Software Engineer.
 
-Currently exploring - 
-  applications of Python for Data Value Analysis, 
-  Machine Learning algorithms for large datasets,
-  Behaviour Trees over State Machines for personal game systems;
- 
-Experience in full stack systems, happy to collaborate on everything from mathy back-end functions to UI & UX design;
+Technology-focused, utilising modern development strategies and engineering best practices. 
+Aiming to produce generalised and specialised software solutions at a sustainable momentum in a team that encourages knowledge sharing.
 
-Reach me on -
-  kisforkealan@gmail.com
+Java, Javascript, Typescript, Kotlin, Bash, Shell, PHP, SQL, HTML, CSS.
+React, Redux, Angular, Node.js, Next.js, Express.js, Docker, Spring, JUnit, Bootstrap, Bulma. TreasureBoat, React Native, AWS - EC2 & ALB, PostgreSQL, MariaDB, MySql, Sequel Pro, PHPMyAdmin. Postman, SCM, Git, GitHub, GitLab, Bitbucket, REST, Jenkins, Groovy, CI/CD, ElasticSearch, Kibana.
+Agile, Scrum, Kanban, Asana, Jira, VS Code, Eclipse, IntelliJ IDEA, Webstorm, Unix, Linux, CLI.
